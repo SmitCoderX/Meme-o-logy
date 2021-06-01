@@ -1,5 +1,5 @@
 # Meme-o-logy
-Meme app for participating in PWA (Philip's App War)
+Meme app for participating in PWA (Philipp's App War)
 
 ## Used:
 - **100% Kotlin**
